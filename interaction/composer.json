@@ -1,5 +1,5 @@
 {
-	"name": "koutogima/interaction",
+	"name": "ntvy95/interaction",
 	"type": "phpbb-extension",
 	"description": "Interaction extension.",
 	"homepage": "",
@@ -7,7 +7,7 @@
 	"license": "GPL-2.0",
 	"authors": [
 		{
-			"name": "koutogima",
+			"name": "ntvy95",
 			"email": "",
 			"homepage": "",
 			"role": ""
