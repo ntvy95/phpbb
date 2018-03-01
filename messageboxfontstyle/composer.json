@@ -1,5 +1,5 @@
 {
-	"name": "koutogima/messageboxfontstyle",
+	"name": "ntvy95/messageboxfontstyle",
 	"type": "phpbb-extension",
 	"description": "message-box font style.",
 	"homepage": "",
@@ -7,7 +7,7 @@
 	"license": "GPL-2.0",
 	"authors": [
 		{
-			"name": "koutogima",
+			"name": "ntvy95",
 			"email": "",
 			"homepage": "",
 			"role": ""
